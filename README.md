@@ -1,0 +1,2 @@
+# DS-3-Diabetes-Prediction
+Project Data Science – Diabetes Prediction dengan menggunakan dataset dari Kaggle, yaitu Pima Indians Diabetes Database. Problem yang akan dipecahkan adalah memprediksi kemungkinan seseorang terkena diabetes atau tidak dari feature-feature yang diberikan. Dataset yang digunakan untuk projek ini dapat di download di link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
